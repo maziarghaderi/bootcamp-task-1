@@ -1,0 +1,25 @@
+@font-face {
+    font-family:vazirmatn ;
+    font-size: 400;
+    font-style: normal;
+    src: url(/azmon/assets/font/Vazirmatn-Regular.woff2);
+}
+
+@font-face {
+    font-family: vazirmatn;
+    font-size: 700;
+    font-style: normal;
+    src: url(/azmon/assets/font/Vazirmatn-Bold.woff2);
+}
+@font-face {
+    font-family: vazirmatn;
+    font-size: 500;
+    font-style: normal;
+    src: url(/azmon/assets/font/Vazirmatn-Medium.woff2);
+}
+@font-face {
+    font-family: vazirmatn;
+    font-weight: 600;
+    font-style: normal;
+    src: url(/azmon/assets/font/Vazirmatn-SemiBold.woff2);
+}
